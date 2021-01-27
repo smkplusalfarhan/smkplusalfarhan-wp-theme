@@ -99,7 +99,7 @@
         <div class="flex flex-col items-center justify-between px-10 py-10 mb-8 -mt-20 space-y-5 bg-white xl:w-full md:space-y-0 md:flex-row">
             <div class="akreditasi lg:w-1/2">
                 <div class="flex items-center">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/akreditasi.svg" alt="akreditasi">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/akreditasi.svg" alt="akreditasi">
                     <div class="ml-6">
                         <h2 class="font-bold">Terakreditasi "A" (UNGGUL)</h2>
                         SK : 245/12568/5688.2018
@@ -108,7 +108,7 @@
             </div>
             <div class="akreditasi lg:w-1/2">
                 <div class="flex items-center">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/adiwiyata.svg" alt="akreditasi">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/adiwiyata.svg" alt="akreditasi">
                     <div class="ml-6">
                         <h2 class="font-bold">Adiwiyata Nasional</h2>
                         Sekolah Berbudaya Lingkungan
@@ -124,18 +124,18 @@
             <div class="mb-12 text-4xl font-bold">Kompetensi Keahlian</div>
             <div class="md:grid md:grid-cols-3 md:gap-5">
                 <div class="">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/mm.svg" alt="" class="mx-auto">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/mm.svg" alt="" class="mx-auto">
                     <div class="my-4 text-lg font-semibold">Multimedia</div>
                     <p class="text-sm text-gray-600">Sistem Komputer, Komputer dan Jaringan Dasar, Pemrograman Dasar, Dasar Desain Grafis, Desain Grafis Percetakan, Desain Media Interkatif, Animasi 2D dan 3D, Teknik Pengolahan Audio dan Video, Produk Kreatif dan Kewirausahaan</p>
                 </div>
                 <div class="mt-12 md:mt-0">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/bdp.svg" alt="" class="mx-auto">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/bdp.svg" alt="" class="mx-auto">
                     <div class="my-4 text-lg font-semibold">Bisnis Daring dan Pemasaran</div>
                     <p class="text-sm text-gray-600">Marketing, Perencanaan Bisnis, Komunikasi Bisnis, Penataan Produk, Bisnis Online, Pengelolaan Bisnis Ritel, Administrasi
                         Transaksi, Produk Kreatif dan Kewirausahaan</p>
                 </div>
                 <div class="mt-12 md:mt-0">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/aphp.svg" alt="" class="mx-auto">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/aphp.svg" alt="" class="mx-auto">
                     <div class="my-4 text-lg font-semibold">Agribisnis Pengolahan Hasil Pertanian</div>
                     <p class="text-sm text-gray-600">Penanganan Bahan Hasil Pertanian, Proses Pengolahan Hasil Pertanian, Pengendalian Mutu Hasil Pertanian, Produksi Pengolahan Hasil Nabati, Produksi Pengolahan Hasil Hewani, Produksi Pengolahan Komiditas Perkebunan dan Herbal, Keamanan Pangan, Penyimpanan dan Penggudangan</p>
                 </div>
@@ -147,7 +147,7 @@
         <div class="container px-6 mx-auto ">
             <div class="flex flex-col md:flex-row">
                 <div class="flex items-center flex-shrink-0 mb-12 ml-8 md:ml-0 w-72 md:mb-0">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/dapodik.svg" alt="" class="mr-4">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/dapodik.svg" alt="" class="mr-4">
                     <div>
                         <div class="mb-1 text-xl font-semibold leading-none">Data Pokok<br> Sekolah</div>
                         Tahun Pelajaran 2020/2021
@@ -238,7 +238,7 @@
         <div class="py-12 mx-auto md:py-24">
             <div class="container flex items-center justify-between px-5 mx-auto mb-4">
                 <div class="flex">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/berita.svg" alt="" class="mr-5">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/berita.svg" alt="" class="mr-5">
                     <div>
                         <h2 class="text-3xl font-bold leading-tight">Berita Terbaru</h2>
                         <div class="text-sm text-gray-700">Nasional PSMK, Pendidikan, Kegiatan Sekolah</div>
@@ -285,7 +285,7 @@
     <section class="pt-12 md:pt-24">
         <div class="container flex items-center justify-between px-5 mx-auto mb-12">
             <div class="flex">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/instagram.svg" alt="" class="mr-5">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/svg/instagram.svg" alt="" class="mr-5">
                 <div>
                     <h2 class="text-3xl font-bold leading-tight">Gallery Photo</h2>
                     <div class="text-sm text-gray-700">Infografis, Kegiatan, Sarana dan Prasarana</div>
@@ -295,21 +295,21 @@
         </div>
         <div class="">
             <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true, "prevNextButtons": false, "pageDots": false  }'>
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img7.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img8.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img9.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img10.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img11.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img12.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img7.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img8.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img9.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img10.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img11.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img12.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
             </div>
         </div>
         <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true, "prevNextButtons": false, "pageDots": false  }'>
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img1.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img2.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img3.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img4.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img5.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-            <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/images/posts/img6.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img1.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img2.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img3.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img4.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img5.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+            <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img6.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
         </div>
         </div>
         </div>
@@ -319,7 +319,7 @@
         <div class="container px-5 mx-auto">
             <div class="flex items-center justify-between mb-12">
                 <div class="flex">
-                    <img src="https://raw.githubusercontent.com/smkplusalfarhan/cdn/main/web/svg/tv.svg" alt="" class="mr-5">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/svg/tv.svg" alt="" class="mr-5">
                     <div>
                         <h2 class="text-3xl font-bold leading-tight text-white">Al-Farhan TV</h2>
                         <div class="text-sm text-gray-500">Channel Youtube Official</div>
