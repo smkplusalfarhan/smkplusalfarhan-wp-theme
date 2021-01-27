@@ -7,7 +7,7 @@ mix.postCss('resources/css/theme.css', 'style.css')
         processCssUrls: true,
         postCss: [ tailwindcss('./tailwind.config.js') ],
     }).purgeCss({
-        enabled: false,
+        enabled: true,
         extend: {
            content: [path.join(__dirname, '*.php')],
            whitelistPatterns: [/hljs/],
