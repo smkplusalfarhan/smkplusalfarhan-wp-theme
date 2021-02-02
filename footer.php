@@ -71,13 +71,14 @@
     				</div>
     			</div>
     		</section>
-    		<img src="/wp-content/themes/smkplusalfarhan/resources/svg/bg-footer.svg" class="w-full" alt="">
+    		<img src="/wp-content/themes/smkplusalfarhan/resources/svg/bg-footer.svg" class="hidden w-full sm:block" alt="">
     		<section class="px-5 pb-8 -mt-1 text-white md:pb-20 bg-green-600-smkplusa">
     			<div class="container relative flex flex-col mx-auto mb-16 sm:items-center sm:flex-row">
-    				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/smkbisa.svg" class="order-2 w-20 pt-4 ml-0 lg:pt-0 lg:w-40 sm:mr-20 lg:ml-6" alt="">
-    				<div class="order-1 text-sm sm:order-3 md:pt-0 md:text-base">Copyright 2020 SMK Plus Al-Farhan. <span class="hidden sm:inline-block">Made with love by me.</span></div>
+    				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/smkbisa.svg" class="w-20 pt-4 ml-0 sm:order-2 lg:pt-0 lg:w-40 sm:mr-20 lg:ml-6" alt="">
+					
+    				<div class="order-1 pt-8 text-sm text-center sm:order-3 md:pt-0 md:text-base">Copyright 2020 SMK Plus Al-Farhan. <span class="hidden sm:inline-block">Made with love by me.</span></div>
 
-    				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/logo-smk.svg" class="absolute top-0 right-0 w-32 -mt-24 lg:-mt-40 lg:w-64" alt="logo SMK">
+    				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/logo-smk.svg" class="absolute top-0 right-0 w-32 -mt-12 lg:-mt-40 lg:w-64" alt="logo SMK">
     			</div>
     		</section>
     	</footer>

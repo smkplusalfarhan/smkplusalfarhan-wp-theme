@@ -812,6 +812,10 @@ img {
   margin-top: -0.25rem;
 }
 
+.-mt-12 {
+  margin-top: -3rem;
+}
+
 .-mt-20 {
   margin-top: -5rem;
 }
@@ -1247,6 +1251,10 @@ img {
 
 @media (min-width: 640px) {
 
+  .sm\:block {
+    display: block;
+  }
+
   .sm\:inline-block {
     display: inline-block;
   }
@@ -1257,6 +1265,10 @@ img {
 
   .sm\:items-center {
     align-items: center;
+  }
+
+  .sm\:order-2 {
+    order: 2;
   }
 
   .sm\:order-3 {
