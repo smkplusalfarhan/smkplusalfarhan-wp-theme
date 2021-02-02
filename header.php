@@ -21,7 +21,9 @@
 				<li>Berita</li>
 				<li>Profil</li>
 				<li>Al-Farhan Tv</li>
-				<li>Kontak</li>
+				<li>
+					<a href="/contact">Kontak</a>
+				</li>
 			</ul>
 		</div>
 	</header>

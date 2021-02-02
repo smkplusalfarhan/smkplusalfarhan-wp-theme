@@ -38,7 +38,7 @@
                         <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="#"><span class="inline-block ml-2">Al-Farhan TV</span></a>
                     </li>
                     <li class="flex items-center">
-                        <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="#"><span class="inline-block ml-2">Kontak</span></a>
+                        <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="/kontak"><span class="inline-block ml-2">Kontak</span></a>
                     </li>
                 </ul>
             </div>
