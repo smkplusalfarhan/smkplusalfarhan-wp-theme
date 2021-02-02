@@ -22,7 +22,7 @@
 				<li>Profil</li>
 				<li>Al-Farhan Tv</li>
 				<li>
-					<a href="/contact">Kontak</a>
+					<a href="/kontak">Kontak</a>
 				</li>
 			</ul>
 		</div>
