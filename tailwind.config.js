@@ -15,5 +15,7 @@ module.exports = {
     position: ['responsive', 'hover', 'focus'],
     animation: ['responsive', 'hover', 'focus'],
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }

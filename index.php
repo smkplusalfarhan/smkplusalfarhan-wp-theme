@@ -193,17 +193,17 @@
                             <div class="mt-2 text-sm text-gray-700">Kepala Sekolah</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person2.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/sm.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Siti Marisah, S.S</h3>
                             <div class="mt-2 text-sm text-gray-700">Bendahara Umum</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person2.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/hm.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Helmina, S.Pd</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Kurikulum</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person2.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/ah.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Ani Handayani</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Kesiswaan</div>
                         </div>
@@ -213,17 +213,17 @@
                             <div class="mt-2 text-sm text-gray-700">Wakasek Humas</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person1.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/ps.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Pepen Suhendri S</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Sarpras</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person1.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/is.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Irpan Syauri</h3>
                             <div class="mt-2 text-sm text-gray-700">Kaprog Multimedia</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person2.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/nn.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Neni Nuraeni</h3>
                             <div class="mt-2 text-sm text-gray-700">Kaprog BDP</div>
                         </div>
@@ -284,7 +284,7 @@
             </div>
         </section>
 
-        <section class="pt-12 md:pt-24">
+        <!-- <section class="pt-12 md:pt-24">
             <div class="container flex items-center justify-between px-5 mx-auto mb-12">
                 <div class="flex">
                     <img src="/wp-content/themes/smkplusalfarhan/resources/svg/instagram.svg" alt="" class="mr-5">
@@ -315,7 +315,7 @@
             </div>
     </div>
     </div>
-    </section>
+    </section> -->
 
     <section class="py-12 bg-black md:py-24">
         <div class="container px-5 mx-auto">

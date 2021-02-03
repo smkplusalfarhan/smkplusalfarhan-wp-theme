@@ -18,7 +18,7 @@
 			<h1 class="mt-4 text-xl font-bold leading-tight text-gray-700 sm:text-3xl md:text-5xl md:mt-12"><?php the_title() ?></h1>
 			<div class="block mt-3 text-gray-700"><?php the_date() ?> in <span class="inline-block font-bold"><?php the_category() ?></span></div>
 		</div>
-		<div class="max-w-3xl px-5 mx-auto mt-4 text-lg text-gray-700 md:order-3 md:text-xl content">
+		<div class="max-w-3xl px-5 mx-auto mt-4 md:order-3 md:text-xl content">
 			<?php the_content() ?>
 		</div>
 
