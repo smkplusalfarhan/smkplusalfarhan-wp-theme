@@ -188,7 +188,7 @@
                     <div class="carousel" data-flickity='{ "cellAlign": "left", "contain": true, "freeScroll": true, "prevNextButtons": false, "pageDots": false }'>
                         <!-- <div class="hidden mr-40 lg:inline-block xl:mr-64"></div> -->
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/kepsek.jpeg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/as.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
                             <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Agus Syarif H., S.Sos</h3>
                             <div class="mt-2 text-sm text-gray-700">Kepala Sekolah</div>
                         </div>
@@ -208,28 +208,28 @@
                             <div class="mt-2 text-sm text-gray-700">Wakasek Kesiswaan</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person1.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Samsul Rizal</h3>
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/rz.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Samsul Rizal, S.E</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Humas</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
                             <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/ps.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Pepen Suhendri S</h3>
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Pepen Suhendri S, S.Kom</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Sarpras</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
                             <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/is.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Irpan Syauri</h3>
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Irpan Syauri, S.Kom</h3>
                             <div class="mt-2 text-sm text-gray-700">Kaprog Multimedia</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
                             <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/nn.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Neni Nuraeni</h3>
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Neni Nuraeni, S.Pd</h3>
                             <div class="mt-2 text-sm text-gray-700">Kaprog BDP</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
-                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/person1.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Dadan Hamdani</h3>
+                            <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/dh.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Dadan Hamdani, S.E</h3>
                             <div class="mt-2 text-sm text-gray-700">Kaprog APHP</div>
                         </div>
 
