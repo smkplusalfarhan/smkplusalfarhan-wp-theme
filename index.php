@@ -284,7 +284,7 @@
             </div>
         </section>
 
-        <!-- <section class="pt-12 md:pt-24">
+        <section class="pt-12 md:pt-24">
             <div class="container flex items-center justify-between px-5 mx-auto mb-12">
                 <div class="flex">
                     <img src="/wp-content/themes/smkplusalfarhan/resources/svg/instagram.svg" alt="" class="mr-5">
@@ -315,7 +315,7 @@
             </div>
     </div>
     </div>
-    </section> -->
+    </section>
 
     <section class="py-12 bg-black md:py-24">
         <div class="container px-5 mx-auto">
