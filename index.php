@@ -49,7 +49,7 @@
 
             <section>
                 <div class="relative flex items-center content-center justify-center pt-16 pb-32" style="min-height: 85vh;">
-                    <div class="absolute top-0 w-full h-full bg-center bg-cover" style='background-image: url("https://smkplusalfarhan.sch.id/wp-content/uploads/2021/01/hero-bg.jpg");'>
+                    <div class="absolute top-0 w-full h-full bg-center bg-cover" style='background-image: url("https://smkplusalfarhan.sch.id/wp-content/uploads/2021/02/bg-hero.jpg");'>
                         <span id="blackOverlay" class="absolute w-full h-full bg-black opacity-50"></span>
                     </div>
                     <div class="relative max-w-5xl mx-auto">
