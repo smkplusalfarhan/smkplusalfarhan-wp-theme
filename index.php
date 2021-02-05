@@ -297,21 +297,31 @@
             </div>
             <div class="">
                 <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true, "prevNextButtons": false, "pageDots": false  }'>
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img7.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img8.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img9.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img10.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img11.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img12.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/1.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/2.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/3.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/4.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/5.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/6.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/7.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/8.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/9.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                    <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/10.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
                 </div>
             </div>
             <div class="carousel" data-flickity='{ "freeScroll": true, "wrapAround": true, "prevNextButtons": false, "pageDots": false  }'>
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img1.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img2.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img3.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img4.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img5.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
-                <img src="/wp-content/themes/smkplusalfarhan/resources/images/posts/img6.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/11.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/12.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/13.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/14.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/15.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/16.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/17.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/18.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/19.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/20.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+                <img src="/wp-content/themes/smkplusalfarhan/resources/images/gallery/21.jpg" alt="" class="object-cover h-64 w-96 carousel-cell">
+
             </div>
     </div>
     </div>
