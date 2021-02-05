@@ -199,7 +199,7 @@
                         </div>
                         <div class="w-64 text-center carousel-cell">
                             <img src="/wp-content/themes/smkplusalfarhan/resources/images/ptk/hm.jpg" alt="" class="object-cover w-32 h-32 mx-auto rounded-full">
-                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Helmina, S.Pd</h3>
+                            <h3 class="mt-6 text-xl font-bold leading-tight text-gray-800">Helmina, M.Pd</h3>
                             <div class="mt-2 text-sm text-gray-700">Wakasek Kurikulum</div>
                         </div>
                         <div class="w-64 text-center carousel-cell">
