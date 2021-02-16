@@ -18,7 +18,7 @@
     <div id="app" class="text-gray-700 bg-gray-100">
         <header>
             <nav class="absolute top-0 z-50 flex flex-wrap items-center justify-between w-full px-2 py-5 navbar-expand-lg">
-                <div class="container flex flex-wrap items-center justify-between px-4 mx-auto">
+                <div class="flex flex-wrap items-center justify-between px-4 mx-auto">
                     <div class="relative flex justify-between w-full lg:w-auto lg:static lg:block lg:justify-start">
                         <a class="inline-block py-2 mr-4 text-xl font-bold leading-none text-white whitespace-no-wrap " href="#">SMK Plus
                             Al-Farhan</a><button class="block px-3 py-1 text-xl leading-none bg-transparent border border-transparent border-solid rounded outline-none cursor-pointer lg:hidden focus:outline-none" type="button" onclick="toggleNavbar('example-collapse-navbar')">
@@ -49,8 +49,8 @@
 
             <section>
                 <div class="relative flex items-center content-center justify-center pt-16 pb-32" style="min-height: 85vh;">
-                    <div class="absolute top-0 w-full h-full bg-center bg-cover" style='background-image: url("https://smkplusalfarhan.sch.id/wp-content/uploads/2021/02/bg-hero.jpg");'>
-                        <span id="blackOverlay" class="absolute w-full h-full bg-black opacity-50"></span>
+                    <div class="absolute top-0 w-full h-full bg-center bg-cover">
+                        <span id="blackOverlay" class="absolute w-full h-full bg-green-600-smkplusa"></span>
                     </div>
                     <div class="relative max-w-5xl mx-auto">
                         <div class="flex flex-wrap items-center">
