@@ -643,6 +643,17 @@ img {
   margin-left: calc(4rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
+.divide-y > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-y-reverse: 0;
+  border-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse)));
+  border-bottom-width: calc(1px * var(--tw-divide-y-reverse));
+}
+
+.divide-gray-200 > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-opacity: 1;
+  border-color: rgba(229, 231, 235, var(--tw-divide-opacity));
+}
+
 .bg-transparent {
   background-color: transparent;
 }
@@ -675,6 +686,11 @@ img {
 .bg-green-600-smkplusa {
   --tw-bg-opacity: 1;
   background-color: rgba(0, 146, 63, var(--tw-bg-opacity));
+}
+
+.hover\:bg-gray-100:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-r {
@@ -834,6 +850,10 @@ img {
   font-weight: 700;
 }
 
+.font-extrabold {
+  font-weight: 800;
+}
+
 .h-32 {
   height: 8rem;
 }
@@ -878,6 +898,14 @@ img {
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
+}
+
+.leading-7 {
+  line-height: 1.75rem;
+}
+
+.leading-9 {
+  line-height: 2.25rem;
 }
 
 .leading-none {
@@ -998,10 +1026,6 @@ img {
   max-width: 48rem;
 }
 
-.max-w-4xl {
-  max-width: 56rem;
-}
-
 .max-w-5xl {
   max-width: 64rem;
 }
@@ -1039,11 +1063,6 @@ img {
 
 .p-8 {
   padding: 2rem;
-}
-
-.py-0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 
 .py-1 {
@@ -1173,6 +1192,10 @@ img {
   padding-bottom: 6rem;
 }
 
+.pt-32 {
+  padding-top: 8rem;
+}
+
 .pb-32 {
   padding-bottom: 8rem;
 }
@@ -1257,6 +1280,11 @@ img {
   color: rgba(31, 41, 55, var(--tw-text-opacity));
 }
 
+.text-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgba(17, 24, 39, var(--tw-text-opacity));
+}
+
 .text-green-700 {
   --tw-text-opacity: 1;
   color: rgba(4, 120, 87, var(--tw-text-opacity));
@@ -1270,6 +1298,15 @@ img {
 .hover\:text-gray-300:hover {
   --tw-text-opacity: 1;
   color: rgba(209, 213, 219, var(--tw-text-opacity));
+}
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tracking-tight {
+  letter-spacing: -0.025em;
 }
 
 .tracking-wider {
@@ -1459,6 +1496,15 @@ img {
     line-height: 2.25rem;
   }
 
+  .sm\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
+  .sm\:leading-10 {
+    line-height: 2.5rem;
+  }
+
   .sm\:mr-20 {
     margin-right: 5rem;
   }
@@ -1520,8 +1566,18 @@ img {
     line-height: 1.75rem;
   }
 
+  .md\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
   .md\:text-5xl {
     font-size: 3rem;
+    line-height: 1;
+  }
+
+  .md\:text-6xl {
+    font-size: 3.75rem;
     line-height: 1;
   }
 
@@ -1539,10 +1595,6 @@ img {
 
   .md\:mt-4 {
     margin-top: 1rem;
-  }
-
-  .md\:mt-6 {
-    margin-top: 1.5rem;
   }
 
   .md\:ml-6 {
@@ -1661,6 +1713,10 @@ img {
   }
 
   .lg\:bg-transparent {
+    background-color: transparent;
+  }
+
+  .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
 

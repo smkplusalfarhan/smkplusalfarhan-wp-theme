@@ -15,32 +15,37 @@
 
 <body>
 
-    <div id="app" class="text-gray-700 bg-gray-100">
+    <div id="app" class="antialiased text-gray-700 bg-gray-100">
+
         <header>
             <nav class="absolute top-0 z-50 flex flex-wrap items-center justify-between w-full px-2 py-5 navbar-expand-lg">
-                <div class="flex flex-wrap items-center justify-between px-4 mx-auto">
+                <div class="container flex flex-wrap items-center justify-between px-4 mx-auto">
                     <div class="relative flex justify-between w-full lg:w-auto lg:static lg:block lg:justify-start">
                         <a class="inline-block py-2 mr-4 text-xl font-bold leading-none text-white whitespace-no-wrap " href="#">SMK Plus
-                            Al-Farhan</a><button class="block px-3 py-1 text-xl leading-none bg-transparent border border-transparent border-solid rounded outline-none cursor-pointer lg:hidden focus:outline-none" type="button" onclick="toggleNavbar('example-collapse-navbar')">
+                            Al-Farhan</a><button class="block px-3 py-1 text-xl leading-none bg-transparent border border-transparent border-solid rounded outline-none cursor-pointer lg:hidden focus:outline-none" type="button" onclick="toggleNavbar('collapse-navbar')">
                             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-6 text-white fill-current">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                             </svg>
                         </button>
                     </div>
-                    <div class="items-center flex-grow hidden mt-4 bg-white rounded-lg lg:flex lg:bg-transparent lg:shadow-none" id="example-collapse-navbar">
+
+                    <div class="items-center flex-grow hidden mt-4 bg-white shadow-lg lg:flex lg:bg-transparent lg:shadow-none" id="collapse-navbar">
 
                         <ul class="flex flex-col list-none lg:flex-row lg:ml-auto">
                             <li class="flex items-center">
-                                <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="#"><span class="inline-block ml-2">Berita</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://ppdb.smkplusalfarhan.sch.id"><span class="inline-block ml-2">PPDB 2021</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="#"><span class="inline-block ml-2">Profil</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Berita</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="#"><span class="inline-block ml-2">Al-Farhan TV</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Profil</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center px-3 py-4 text-gray-800 lg:text-white lg:hover:text-gray-300 lg:py-2" href="/kontak"><span class="inline-block ml-2">Kontak</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Al-Farhan TV</span></a>
+                            </li>
+                            <li class="flex items-center">
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Kontak</span></a>
                             </li>
                         </ul>
                     </div>
@@ -48,14 +53,14 @@
             </nav>
 
             <section>
-                <div class="relative flex items-center content-center justify-center pt-16 pb-32" style="min-height: 85vh;">
+                <div class="relative flex items-center content-center justify-center pt-16 pb-32">
                     <div class="absolute top-0 w-full h-full bg-center bg-cover">
                         <span id="blackOverlay" class="absolute w-full h-full bg-green-600-smkplusa"></span>
                     </div>
-                    <div class="relative max-w-5xl mx-auto">
+                    <div class="relative max-w-5xl pt-32 mx-auto">
                         <div class="flex flex-wrap items-center">
-                            <div class="w-full px-4">
-                                <div class="pr-12 text-white">
+                            <div class="w-full px-4 text-center">
+                                <div class="text-white">
                                     <p class="text-3xl">
                                         Bersama kami
                                     </p>
@@ -65,15 +70,14 @@
                                     <p class="mt-2 text-lg">
                                         Mewujudkan SMK Plus Al-Farhan yang berakhlakul karimah, mandiri, profesional, berprestasi dan berbudaya lingkungan
                                     </p>
-                                    <button class="flex items-center my-4 font-semibold focus:outline-none" type="button" onclick="toggleProfil('video-profil')">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.467 39" class="w-8 mr-4">
-                                            <path id="youtube-brands" d="M69.241,70.1a6.969,6.969,0,0,0-4.9-4.936C60.011,64,42.666,64,42.666,64S25.322,64,21,65.167a6.97,6.97,0,0,0-4.9,4.936c-1.159,4.354-1.159,13.437-1.159,13.437s0,9.084,1.159,13.437a6.866,6.866,0,0,0,4.9,4.857C25.322,103,42.666,103,42.666,103s17.345,0,21.67-1.167a6.866,6.866,0,0,0,4.9-4.857C70.4,92.623,70.4,83.539,70.4,83.539S70.4,74.456,69.241,70.1ZM36.994,91.787V75.292l14.5,8.247Z" transform="translate(-14.933 -64)" fill="#fff" />
-                                        </svg>
-
-                                        <span class="tracking-wider">LIHAT VIDEO PROFIL</span>
-
-
-                                    </button>
+                                    <div class="flex justify-center mb-12 ">
+                                        <button class="flex items-center my-4 font-semibold focus:outline-none" type="button" onclick="toggleProfil('video-profil')">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.467 39" class="w-8 mr-4">
+                                                <path id="youtube-brands" d="M69.241,70.1a6.969,6.969,0,0,0-4.9-4.936C60.011,64,42.666,64,42.666,64S25.322,64,21,65.167a6.97,6.97,0,0,0-4.9,4.936c-1.159,4.354-1.159,13.437-1.159,13.437s0,9.084,1.159,13.437a6.866,6.866,0,0,0,4.9,4.857C25.322,103,42.666,103,42.666,103s17.345,0,21.67-1.167a6.866,6.866,0,0,0,4.9-4.857C70.4,92.623,70.4,83.539,70.4,83.539S70.4,74.456,69.241,70.1ZM36.994,91.787V75.292l14.5,8.247Z" transform="translate(-14.933 -64)" fill="#fff" />
+                                            </svg>
+                                            <span class="tracking-wider">LIHAT VIDEO PROFIL</span>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -93,9 +97,7 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
-
             </div>
         </header>
 
