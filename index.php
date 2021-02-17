@@ -15,9 +15,18 @@
 
 <body>
 
+
+
     <div id="app" class="antialiased text-gray-700 bg-gray-100">
 
-        <header>
+        <section class="flex justify-center px-6 py-4 bg-gray-300">
+            <div class="text-center">
+                Penerimaan Peserta Didik Baru Tahun Pelajaran 2021/2022.
+                <a class="font-bold" href="https://ppdb.smkplusalfarhan.sch.id/">Daftar Sekarang</a>
+            </div>
+        </section>
+
+        <header class="relative">
             <nav class="absolute top-0 z-50 flex flex-wrap items-center justify-between w-full px-2 py-5 navbar-expand-lg">
                 <div class="container flex flex-wrap items-center justify-between px-4 mx-auto">
                     <div class="relative flex justify-between w-full lg:w-auto lg:static lg:block lg:justify-start">
