@@ -45,16 +45,13 @@
                                 <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://ppdb.smkplusalfarhan.sch.id"><span class="inline-block ml-2">PPDB 2021</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Berita</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="category/psmk"><span class="inline-block ml-2">Berita</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Profil</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="/profil"><span class="inline-block ml-2">Profil</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Al-Farhan TV</span></a>
-                            </li>
-                            <li class="flex items-center">
-                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="#"><span class="inline-block ml-2">Kontak</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://www.youtube.com/channel/UCqejvL7CLchNRzUIrBhZCng?sub_confirmation=1"><span class="inline-block ml-2">Al-Farhan TV</span></a>
                             </li>
                         </ul>
                     </div>
