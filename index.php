@@ -181,7 +181,7 @@
                     </div>
                 </div>
 
-                <a href="https://dapo.dikdasmen.kemdikbud.go.id/sekolah/AF9586728BD8DA4DBCD8#rekapitulasi" target="_blank" class="block mt-12 ml-8 text-sm text-green-600-smkplusa md:ml-0">Lihat lebih lengkap</a>
+                <a href="https://dapo.kemdikbud.go.id/sekolah/AF9586728BD8DA4DBCD8#rekapitulasi" target="_blank" class="block mt-12 ml-8 text-sm text-green-600-smkplusa md:ml-0">Lihat lebih lengkap</a>
 
             </div>
         </section>
