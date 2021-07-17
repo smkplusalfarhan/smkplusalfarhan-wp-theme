@@ -22,6 +22,9 @@
 					<a href="https://ppdb.smkplusalfarhan.sch.id">PPDB 2021</a>
 				</li>
 				<li class="font-bold">
+					<a href="https://ikafa.smkplusalfarhan.sch.id">Ikafa</a>
+				</li>
+				<li class="font-bold">
 					<a href="/category/psmk">Berita</a>
 				</li>
 				<li class="font-bold">

@@ -1,26 +1,26 @@
     <div class="bg-gray-100">
     	<section class="container flex flex-col items-center justify-between px-5 pt-8 mx-auto mb-8 space-y-6 md:space-x-6 md:space-y-0 md:flex-row">
-    		<div class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer hover:border-red-600 auto lg:flex-row md:w-1/3" id="sosmed-youtube">
+    		<a href="https://www.youtube.com/channel/UCqejvL7CLchNRzUIrBhZCng" class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer hover:border-red-600 auto lg:flex-row md:w-1/3" id="sosmed-youtube">
     			<img src="/wp-content/themes/smkplusalfarhan/resources/svg/alfatv.svg" class="w-12 lg:mr-6" alt="">
     			<div class="mt-2 text-center lg:mt-0 lg:text-left">
     				<h3 class="text-xl font-bold">Al-Farhan TV</h3>
     				<div class="text-sm">Channel Youtube Official</div>
     			</div>
-    		</div>
-    		<div class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer auto lg:flex-row md:w-1/3 hover:border-blue-600" id="sosmed-youtube">
+    		</a>
+    		<a href="https://web.facebook.com/SMKPlusAlFarhan/" class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer auto lg:flex-row md:w-1/3 hover:border-blue-600" id="sosmed-youtube">
     			<img src="/wp-content/themes/smkplusalfarhan/resources/svg/fanspage.svg" class="w-12 lg:mr-6" alt="">
     			<div class="mt-2 text-center lg:mt-0 lg:text-left">
     				<h3 class="text-xl font-bold">@SMKPlusAlfarhan</h3>
     				<div class="text-sm">Halaman Resmi facebook</div>
     			</div>
-    		</div>
-    		<div class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer auto lg:flex-row md:w-1/3 hover:border-purple-600" id="sosmed-youtube">
+    		</a>
+    		<a href="https://www.instagram.com/smkplusalfarhan/" class="flex flex-col items-center w-full p-8 transition duration-500 ease-in-out transform bg-white border-2 border-transparent shadow-lg cursor-pointer auto lg:flex-row md:w-1/3 hover:border-purple-600" id="sosmed-youtube">
     			<img src="/wp-content/themes/smkplusalfarhan/resources/svg/instagram.svg" class="w-12 lg:mr-6" alt="">
     			<div class="mt-2 text-center lg:mt-0 lg:text-left">
     				<h3 class="text-xl font-bold">/smkplusalfarhan</h3>
     				<div class="text-sm">Halaman Instagram</div>
     			</div>
-    		</div>
+    		</a>
 
     	</section>
 
@@ -75,7 +75,7 @@
     		<section class="px-5 pb-8 -mt-1 text-white md:pb-20 bg-green-600-smkplusa">
     			<div class="container relative flex flex-col mx-auto mb-16 sm:items-center sm:flex-row">
     				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/smkbisa.svg" class="w-20 pt-4 ml-0 sm:order-2 lg:pt-0 lg:w-40 sm:mr-20 lg:ml-6" alt="">
-					
+
     				<div class="order-1 pt-8 text-sm text-center sm:order-3 md:pt-0 md:text-base">Copyright 2020 SMK Plus Al-Farhan. <span class="hidden sm:inline-block">Made with love by me.</span></div>
 
     				<img src="/wp-content/themes/smkplusalfarhan/resources/svg/logo-smk.svg" class="absolute top-0 right-0 w-32 -mt-12 lg:-mt-40 lg:w-64" alt="logo SMK">
