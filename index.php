@@ -21,8 +21,8 @@
 
         <section class="flex justify-center px-6 py-4 bg-gray-300">
             <div class="text-center">
-                Ikatan Keluarga Alumni SMK Plus Al-Farhan.
-                <a class="font-bold" href="https://ikafa.smkplusalfarhan.sch.id/">Ikafa klik disini</a>
+                Portal Ikatan Keluarga Alumni SMK Plus Al-Farhan.
+                <a class="font-bold" href="https://ikafa.smkplusalfarhan.sch.id/">Klik disini</a>
             </div>
         </section>
 
@@ -45,7 +45,7 @@
                                 <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://ppdb.smkplusalfarhan.sch.id"><span class="inline-block ml-2">PPDB 2021</span></a>
                             </li>
                             <li class="flex items-center">
-                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://ikafa.smkplusalfarhan.sch.id"><span class="inline-block ml-2">Ikafa</span></a>
+                                <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="https://ikafa.smkplusalfarhan.sch.id"><span class="inline-block ml-2">Portal Ikafa</span></a>
                             </li>
                             <li class="flex items-center">
                                 <a class="flex items-center w-full px-4 py-4 font-semibold text-gray-800 lg:text-white hover:bg-gray-100 lg:hover:bg-transparent lg:py-2" href="category/psmk"><span class="inline-block ml-2">Berita</span></a>
