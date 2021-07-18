@@ -19,9 +19,9 @@
 
     <div id="app" class="antialiased text-gray-700 bg-gray-100">
 
-        <section class="flex justify-center px-6 py-4 bg-gray-300">
-            <div class="text-center">
-                Portal Ikatan Keluarga Alumni SMK Plus Al-Farhan.
+        <section class="flex justify-center mt-[300px] px-6 py-4 bg-red-800">
+            <div class="text-center"> 
+                Portal 
                 <a class="font-bold" href="https://ikafa.smkplusalfarhan.sch.id/">Klik disini</a>
             </div>
         </section>
